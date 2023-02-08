@@ -1,2 +1,2 @@
-# Restaurant-Reservation
-I developed this restaurant reservation website using html, php, mysql
+<h3>Restaurant Reservation Application</h3>
+
